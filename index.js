@@ -15,7 +15,6 @@ randomNumber = Math.floor(Math.random() * 20) + 1;
 
 randomInteger = randomNumber;
 
-//randomUserID =
+randomUserID =
 
-console.log(randomNumber)
-
+console.log(randomInteger)
